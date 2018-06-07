@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "bluebird": "^3.3.4",
-    "epoll": "^0.1.17"
+    "epoll": "^2.0.1"
   }
 }
